@@ -1,0 +1,85 @@
+html {
+    background-color: rgb(57, 176, 223);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 1%;
+    margin: 1%;
+}
+
+.header {
+    padding: 1%;
+    margin: 1% 0 1% 0;
+    font-size: 200%;
+    background-color: cornsilk;
+}
+
+.header ul {
+    background-color: gold;
+    margin-right: 10px;
+    float: right;
+    font-size: 110%;
+    font-weight: bold;
+}
+
+.header ul li {
+    display: inline-block;
+}
+
+.header ul li a:hover {
+    background-color: rgb(3, 71, 99);
+    box-shadow: 0 0 20px rgb(128, 57, 0);
+}
+
+.section {
+    padding: 1%;
+    margin: 1%;
+    background-color: darkkhaki;
+}
+
+#food {
+    width: 564px;
+    height: 246px;
+}
+
+#volleyball {
+    width: 523px;
+    height: 348px;
+}
+
+#resume {
+    width: 697px;
+    height: 913px;
+}
+
+.section h1 p {
+    padding: 5%;
+}
+
+@media screen and (max-width: 992px) {
+    .header {
+        background: rgb(245, 172, 13);
+    }
+    #food {
+        width:20%;
+        height: 12%;
+    }
+    #volleyball {
+        width:20%;
+        height: 12.5%;
+    }
+    #resume {
+        width:20%;
+        height: 60%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .header ul {
+        background: rgb(4, 165, 90);
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .section2 {
+        text-align: center;
+    }
+}
