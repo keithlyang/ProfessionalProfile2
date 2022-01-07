@@ -1,4 +1,4 @@
-Professional Profile Update
+Professional Profile Update #1
 
 Authors
 
@@ -6,4 +6,5 @@ https://keithlyang.github.io/ProfessionalProfile2/
 
 Features
 
--Html: Header with 3 links that will direct the user to About Me, Work or Contacts
+-Header with 5 links that will direct the user to About Me, Work, Contact, Github and/or Resume on page
+
