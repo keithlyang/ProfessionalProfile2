@@ -26,4 +26,16 @@ Features
 
 -Page background color is blue
 
--Header has padding 
+-Header has padding and background color is cornsilk and the unordered list is yellow
+
+-Unordered list has a hover effect
+
+-Hover will changed color from yellow to navy blue and the text color from purple to green
+
+-Original pictures had different sizes, used CSS to change pictures sizes to match page
+
+-Added media querys to header, unordered list, section2 (About Me description) and pictures
+
+-Header changes color to oranges @992px
+
+-
