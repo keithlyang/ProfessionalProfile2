@@ -10,6 +10,8 @@ Features
 
 -Header with 5 links that will direct the user to About Me, Work, Contact, Github and/or Resume on page
 
+-Photo of Keith :Currently using picholder image:
+
 -About Me: Who I am and my interests with 2 interest photos
 
 -Work: Links to 1 class project and 2 homework assignments
@@ -20,3 +22,8 @@ Features
 
 -Resume: Photo of resume
 
+**CSS**
+
+-Page background color is blue
+
+-Header has padding 
