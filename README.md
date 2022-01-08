@@ -36,6 +36,8 @@ Features
 
 -Added media querys to header, unordered list, section2 (About Me description) and pictures
 
--Header changes color to oranges @992px
+-Header changes color to oranges and pictures change size @992px
 
--
+-Header unordered list changes color to green @768px
+
+-Section2 (About Me description) text-align to center of page @576px
