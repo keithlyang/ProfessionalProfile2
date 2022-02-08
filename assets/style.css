@@ -3,6 +3,7 @@ html {
     font-family: 'Courier New', Courier, monospace;
     padding: 1%;
     margin: 1%;
+    font-size: larger;
 }
 
 .header {
@@ -36,6 +37,11 @@ html {
     background-color: darkkhaki;
 }
 
+#avatar {
+    width: 500px;
+    height: 500px;
+}
+
 #food {
     width: 564px;
     height: 246px;
@@ -55,6 +61,10 @@ html {
     padding: 5%;
 }
 
+#work p {
+    font-weight: bold;
+}
+
 @media screen and (max-width: 992px) {
     .header {
         background: rgb(245, 172, 13);
@@ -68,8 +78,8 @@ html {
         height: 12.5%;
     }
     #resume {
-        width:20%;
-        height: 60%;
+        width:80%;
+        height: 240%;
     }
 }
 
