@@ -1,4 +1,4 @@
-**Professional Profile Update #1**
+**Professional Profile Update #2**
 
 Authors
 
@@ -20,7 +20,7 @@ Features
 
 -Github: Link to Github Profile
 
--Resume: Photo of resume
+-Resume: View by clicking link, download link and  responsive photo of resume
 
 **CSS**
 
