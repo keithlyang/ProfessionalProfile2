@@ -1,8 +1,12 @@
-**Professional Profile Update #2**
+***Professional Profile Update #2***
 
 Authors
 
 https://keithlyang.github.io/ProfessionalProfile2/
+
+Screenshots/Pictures/Videos
+
+https://user-images.githubusercontent.com/95650841/153493890-32736883-7625-4c2c-8bdc-35503a2d461e.mp4
 
 Features
 
